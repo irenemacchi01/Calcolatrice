@@ -1,0 +1,1 @@
+![Immagine funzionamento](img.png)
